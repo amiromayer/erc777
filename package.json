@@ -1,0 +1,31 @@
+{
+  "name": "erc777",
+  "version": "1.0.0",
+  "description": "My reference implementation of ERC777",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "truffle test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amiromayer/erc777.git"
+  },
+  "keywords": [
+    "erc777",
+    "erc20",
+    "token",
+    "ethereum"
+  ],
+  "author": "Amir",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/amiromayer/erc777/issues"
+  },
+  "homepage": "https://github.com/amiromayer/erc777#readme",
+  "dependencies": {
+    "truffle": "^5.0.2"
+  }
+}
